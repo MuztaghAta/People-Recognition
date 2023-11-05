@@ -1,0 +1,6 @@
+# People Recognition
+opencv-contrib-python
+face-recognition
+mediapipe
+numpy
+notebook
